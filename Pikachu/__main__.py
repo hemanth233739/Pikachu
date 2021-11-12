@@ -75,7 +75,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-`Hello` [🧚‍♀️](https://telegra.ph/file/f051977ca20301e4762c1.mp4) `My name is` *Pikachu*
+`Hello` [🧚‍♀️](https://telegra.ph/file/e4c1ee99e1ac353f74811.mp4) `My name is` *Pikachu*
 `I am powerful  group management bot.
 Build by HEMANTH for Your Telegram Group , I specialize in managing Entertainment type groups.
 You can find my list of available commands with! Hit` *🔰Commands*   

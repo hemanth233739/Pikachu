@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/c595bed6233e0fcdcb9ff.jpg">
+  <img src="https://telegra.ph/file/3fa63f2c7b8f1930298b4.jpg">
 </p>
 
 # Pikachu

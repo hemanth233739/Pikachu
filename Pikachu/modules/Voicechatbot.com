@@ -47,7 +47,7 @@ async def Pikachu(_, message):
     except Exception as e:
         await m.edit(str(e))
         return
-    await m.edit("Made By @Murat_30_God...")
+    await m.edit("Made By @HEMANTHGAMING1K...")
     PikachuVoice = await ai_Pikachu(VoiceAi)
     await m.edit("Repyping...")
     await message.reply_audio(audio=PikachuVoice, title=chatbot, performer=name)

@@ -110,7 +110,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="💾 Source Code", text="MY SOURCE IS PRIVATE 🤗"
+            text="💾 Source Code", url="https://t.me/HG_PIKACHU_BOT"
         ),
     ],
 ]

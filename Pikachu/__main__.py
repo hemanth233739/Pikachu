@@ -105,7 +105,7 @@ buttons = [
     [
         InlineKeyboardButton(text="GROUP", url="https://t.me/hemanth_gaming1k"),
         InlineKeyboardButton(
-            text="UPDATES⚡", url="https://t.me/hgbotsupportchannel"
+            text="UPDATES⚡", url="https://t.me/hgbotsupdates"
         ),
     ],
     [
@@ -378,7 +378,7 @@ def Pikachu_about_callback(update, context):
                  \n❍ I have a note keeping system, blacklists, and even predetermined replies on certain keywords.
                  \n❍ I check for admins' permissions before executing any command and more stuffs
                  \n\n_yone's licensed under the GNU General Public License v3.0_
-                 \nHere is the [💾Repository](https://github.com/kaal0408/Pikachu).
+                 \nHere is the [💾Repository](https://t.me/HG_PIKACHU_BOT).
                  \n\nIf you have any question about yone, let us know at .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -406,7 +406,7 @@ def Source_about_callback(update, context):
     if query.data == "source_":
         query.message.edit_text(
             text=""" Hi..🤗 I'm *Pikachu*
-                 \nHere is the [Source Code](https://github.com/hemanth233739/Pikachu) .""",
+                 \nHere is the [Source Code](https://t.me/hgbotsupdates) .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
